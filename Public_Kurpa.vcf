@@ -5,11 +5,11 @@ N;CHARSET=UTF-8:Kurpa;Maks;;;
 NICKNAME;CHARSET=UTF-8:@kurpa
 GENDER:M
 UID;CHARSET=UTF-8:t.me/kurpa
-EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:maksim.kurpa@gmail.com
-EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:maksim.kurpa@apalon.com
+EMAIL;CHARSET=UTF-8;type=Mail,INTERNET:maksim.kurpa@gmail.com
 TITLE;CHARSET=UTF-8:Lead iOS Engineer
 ORG;CHARSET=UTF-8:Apalon Apps
-URL;type=WORK;CHARSET=UTF-8:www.linkedin.com/in/maksim-kurpa/
+URL;type=LinkedIn;CHARSET=UTF-8:linkedin.com/in/maksim-kurpa
+URL;type=Telegram;CHARSET=UTF-8:t.me/kurpa
 NOTE;CHARSET=UTF-8:Telegram
 REV:2020-04-17T19:46:42.791Z
 END:VCARD
