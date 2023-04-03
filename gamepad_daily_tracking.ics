@@ -3,21 +3,13 @@ VERSION:2.0
 PRODID:-//GamepadBot//Your Calendar 1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALNAME:Gamepad
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Dubai:20230403T100000
 DTEND;TZID=Asia/Dubai:20230403T104500
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR
-EXDATE;TZID=Asia/Dubai:20230414T100000
-EXDATE;TZID=Asia/Dubai:20230421T100000
-EXDATE;TZID=Asia/Dubai:20230428T100000
-DTSTAMP:202304
+DTSTAMP:20230403T100000
 SUMMARY:Gamepad Tracking
 DESCRIPTION:Join our daily weekday meeting on Google Meet: https://meet.google.com/yjh-nuny-hom
-ATTENDEE;CN=kirill@gamepadbot.gg;RSVP=FALSE:mailto:kirill@gamepadbot.gg
-ATTENDEE;CN=Pavel@gamepadbot.gg;RSVP=FALSE:mailto:Pavel@gamepadbot.gg
-ATTENDEE;CN=drcode@gamepadbot.gg;RSVP=FALSE:mailto:drcode@gamepadbot.gg
-ATTENDEE;CN=bezpochty1@gmail.com;RSVP=FALSE:mailto:bezpochty1@gmail.com
-ATTENDEE;CN=Ceo@tlpt.ru;RSVP=FALSE:mailto:Ceo@tlpt.ru
-ATTENDEE;CN=maks@gamepadbot.gg;RSVP=FALSE:mailto:maks@gamepadbot.gg
 END:VEVENT
 END:VCALENDAR
